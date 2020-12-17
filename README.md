@@ -4,7 +4,9 @@ Download [Face shape predictor](https://github.com/tzutalin/dlib-android/blob/ma
 This project was done with the only purpose to detect the eyes, their gaze and the blinking.
 
 The app will be built in 2 main parts.
+  
   Eye detection: Detection of the eyes, their movement and most important their blinking.
+  
   Typer: A keyboard on the screen where we’re going to select the letters by just using our eyes.
 
 A few parts regarding the eye detection have been hardcoded to work specifically with my eyes and with a specific lightening condition and with a certain webcam.
